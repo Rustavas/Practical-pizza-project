@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/Practical-pizza-project.git"
+    "url": "git+https://github.com/Rustavas/Practical-pizza-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/Practical-pizza-project/issues"
+    "url": "https://github.com/Rustavas/Practical-pizza-project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
