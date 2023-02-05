@@ -1,2 +1,21 @@
-@import './common';
-// @import './example';
+@import './utils/vars';
+@import './utils/mixin';
+@import './base/common';
+@import './base/reset';
+@import './base/vissually-hidden';
+@import './layouts/slider';
+@import './components/buttons';
+@import './components/container';
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/favorites';
+@import './layouts/customers-say';
+@import './layouts/subscribe';
+@import './layouts/footer';
+@import './layouts/modal-order';
+@import './layouts/scroll-up';
+
+
+
+
+
